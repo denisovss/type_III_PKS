@@ -1,0 +1,11 @@
+Substrate,SMILES
+indole-6-carboxyl-coa,C1=CC(=CC2=C1C=CN2)C(=O)O
+cyclobutanoyl-coa,C1CC(C1)C(=O)O
+3-methylbenzofuran-2-carboxyl-coa,CC1=C(OC2=CC=CC=C12)C(=O)O
+2-(1H-indol-3-yl)acetyl-coa,C1=CC=C2C(=C1)C(=CN2)CC(=O)O
+naphthoyl-coa,C1=CC=C2C(=C1)C=CC=C2C(=O)O
+phenylalaninyl-coa,C1=CC=C(C=C1)C[C@@H](C(=O)O)N
+nicotinoyl-coa,C1=CC(=CN=C1)C(=O)O
+4-6-dichloropyrimidine-5-carboxyl-coa,C1=NC(=C(C(=N1)Cl)C(=O)O)Cl
+6-aminohexanoyl-coa,C(CCC(=O)O)CCN
+3-(4-chlorophenoxy)propanoyl-coa,C1=CC(=CC=C1OCCC(=O)O)Cl
