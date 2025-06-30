@@ -1,0 +1,12 @@
+Substrate,SMILES
+benzoyl-coa,OC(C1=CC=CC=C1)=O
+phenylacetyl-coa,OC(CC1=CC=CC=C1)=O
+N-CH3-anthraniloyl-coa,OC(C1=CC=CC=C1NC)=O
+coumaroyl-coa,OC(/C=C/C1=CC=C(O)C=C1)=O
+methylcrotonyl-coa,C/C=C(C(O)=O)\C
+acetyl-coa,CC(O)=O
+hexanoyl-coa,CCCCCC(O)=O
+decanoyl-coa,CCCCCCCCCC(O)=O
+myristoyl-coa,CCCCCCCCCCCCCC(O)=O
+oleoyl-coa,CCCCCCCC/C=C\CCCCCCCC(O)=O
+phytanoyl-coa,CC(CCCC(CCCC(CCCC(CC(O)=O)C)C)C)C
